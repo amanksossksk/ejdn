@@ -12,7 +12,7 @@ const archiver = require('archiver');
 const unzipper = require('unzipper');
 const firebaseManager = require('./firebase-config');
 // =================== CONFIG ===================
-const TELEGRAM_TOKEN = "8368619416:AAGiv16Y5nbvDaATY4rN62T9nRLApe16A6E";
+const TELEGRAM_TOKEN = "7701445267:AAE5YSftGtrI9l8Ms5ORqM-tJOXXjcm_sNQ";
 const ADMIN_USER_IDS = ["6783200465"]; // Array for multiple admins
 const bot = new TelegramBot(TELEGRAM_TOKEN, { polling: true });
 
