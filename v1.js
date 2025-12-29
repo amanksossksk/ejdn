@@ -12,7 +12,7 @@ const archiver = require('archiver');
 const unzipper = require('unzipper');
 const firebaseManager = require('./firebase-config');
 // =================== CONFIG ===================
-const TELEGRAM_TOKEN = "8368619416:AAGiv16Y5nbvDaATY4rN62T9nRLApe16A6E";
+const TELEGRAM_TOKEN = "7701445267:AAE5YSftGtrI9l8Ms5ORqM-tJOXXjcm_sNQ";
 const LOGS_GROUP_ID = "-1003641751180";
 const REQUIRED_CHANNEL_ID = "-1002665844728";  // Your channel ID
 const CHANNEL_LINK = "https://t.me/+AN5yGWBDkCUxZGU1";  // Your channel link
